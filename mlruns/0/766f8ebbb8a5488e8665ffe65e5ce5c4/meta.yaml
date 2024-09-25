@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/766f8ebbb8a5488e8665ffe65e5ce5c4/artifacts
+end_time: 1727296017843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 766f8ebbb8a5488e8665ffe65e5ce5c4
+run_name: caring-conch-973
+run_uuid: 766f8ebbb8a5488e8665ffe65e5ce5c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727296014131
+status: 3
+tags: []
+user_id: ASUS

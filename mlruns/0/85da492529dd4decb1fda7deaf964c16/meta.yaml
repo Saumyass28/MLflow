@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/85da492529dd4decb1fda7deaf964c16/artifacts
+end_time: 1727296168392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85da492529dd4decb1fda7deaf964c16
+run_name: painted-sloth-452
+run_uuid: 85da492529dd4decb1fda7deaf964c16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727296165537
+status: 3
+tags: []
+user_id: ASUS

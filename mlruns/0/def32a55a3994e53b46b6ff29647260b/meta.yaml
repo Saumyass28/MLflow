@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/def32a55a3994e53b46b6ff29647260b/artifacts
+end_time: 1727296253059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: def32a55a3994e53b46b6ff29647260b
+run_name: welcoming-conch-535
+run_uuid: def32a55a3994e53b46b6ff29647260b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727296250665
+status: 3
+tags: []
+user_id: ASUS

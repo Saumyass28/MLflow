@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/86d5d1fbc6304ae3b83f31c51ce3f113/artifacts
+end_time: 1727296217708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86d5d1fbc6304ae3b83f31c51ce3f113
+run_name: upset-midge-61
+run_uuid: 86d5d1fbc6304ae3b83f31c51ce3f113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727296215281
+status: 3
+tags: []
+user_id: ASUS

@@ -1,3 +1,15 @@
+import sys
+import os
+import yaml
+import joblib
+
+# Add the directory containing 'mlProject' to sys.path
+sys.path.append(os.path.abspath(os.path.join(os.getcwd(), r'C:\\MLflow\\src')))
+
+
+
+
+
 from mlProject import logger
 from mlProject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 from mlProject.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
