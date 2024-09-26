@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/0e60f86febc74685b4af525ee9394db7/artifacts
+end_time: 1727332642135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e60f86febc74685b4af525ee9394db7
+run_name: unequaled-panda-46
+run_uuid: 0e60f86febc74685b4af525ee9394db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727332636249
+status: 3
+tags: []
+user_id: ASUS

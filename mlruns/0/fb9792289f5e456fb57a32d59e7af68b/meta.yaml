@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/fb9792289f5e456fb57a32d59e7af68b/artifacts
+end_time: 1727332328122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb9792289f5e456fb57a32d59e7af68b
+run_name: orderly-chimp-231
+run_uuid: fb9792289f5e456fb57a32d59e7af68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727332324638
+status: 3
+tags: []
+user_id: ASUS

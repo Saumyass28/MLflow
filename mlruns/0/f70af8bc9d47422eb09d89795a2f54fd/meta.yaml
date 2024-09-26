@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/f70af8bc9d47422eb09d89795a2f54fd/artifacts
+end_time: 1727296504636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70af8bc9d47422eb09d89795a2f54fd
+run_name: exultant-kit-441
+run_uuid: f70af8bc9d47422eb09d89795a2f54fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727296501945
+status: 3
+tags: []
+user_id: ASUS

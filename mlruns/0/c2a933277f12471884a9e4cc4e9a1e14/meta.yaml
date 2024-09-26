@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/c2a933277f12471884a9e4cc4e9a1e14/artifacts
+end_time: 1727333392528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2a933277f12471884a9e4cc4e9a1e14
+run_name: judicious-grouse-87
+run_uuid: c2a933277f12471884a9e4cc4e9a1e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727333389330
+status: 3
+tags: []
+user_id: ASUS

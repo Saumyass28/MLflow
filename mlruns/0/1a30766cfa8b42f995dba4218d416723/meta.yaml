@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/1a30766cfa8b42f995dba4218d416723/artifacts
+end_time: 1727296327170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a30766cfa8b42f995dba4218d416723
+run_name: crawling-whale-491
+run_uuid: 1a30766cfa8b42f995dba4218d416723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727296324633
+status: 3
+tags: []
+user_id: ASUS

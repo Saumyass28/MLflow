@@ -2,6 +2,9 @@ import sys
 import os
 import yaml
 import joblib
+import mlflow
+
+mlflow.set_tracking_uri("https://dagshub.com/Saumyass28/MLflow.mlflow")
 
 # Add the directory containing 'mlProject' to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), r'C:\\MLflow\\src')))

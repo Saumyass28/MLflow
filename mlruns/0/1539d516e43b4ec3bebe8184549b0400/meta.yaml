@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/1539d516e43b4ec3bebe8184549b0400/artifacts
+end_time: 1727296623052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1539d516e43b4ec3bebe8184549b0400
+run_name: legendary-deer-77
+run_uuid: 1539d516e43b4ec3bebe8184549b0400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727296619324
+status: 3
+tags: []
+user_id: ASUS

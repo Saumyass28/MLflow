@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/03141a53d6de49aaa1a13dcbd874c311/artifacts
+end_time: 1727332307447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03141a53d6de49aaa1a13dcbd874c311
+run_name: incongruous-hen-278
+run_uuid: 03141a53d6de49aaa1a13dcbd874c311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727332302430
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/50f3ef3a600f4aee81a93b3c100256ab/artifacts
+end_time: 1727333459716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50f3ef3a600f4aee81a93b3c100256ab
+run_name: bedecked-goose-717
+run_uuid: 50f3ef3a600f4aee81a93b3c100256ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727333456579
+status: 3
+tags: []
+user_id: ASUS

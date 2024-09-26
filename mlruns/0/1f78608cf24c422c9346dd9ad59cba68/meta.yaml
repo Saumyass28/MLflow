@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/1f78608cf24c422c9346dd9ad59cba68/artifacts
+end_time: 1727333419412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f78608cf24c422c9346dd9ad59cba68
+run_name: auspicious-finch-799
+run_uuid: 1f78608cf24c422c9346dd9ad59cba68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727333416255
+status: 3
+tags: []
+user_id: ASUS

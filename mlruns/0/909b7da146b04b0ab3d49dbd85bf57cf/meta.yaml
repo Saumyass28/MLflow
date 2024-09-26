@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLflow/mlruns/0/909b7da146b04b0ab3d49dbd85bf57cf/artifacts
+end_time: 1727333358677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 909b7da146b04b0ab3d49dbd85bf57cf
+run_name: angry-auk-709
+run_uuid: 909b7da146b04b0ab3d49dbd85bf57cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727333352959
+status: 3
+tags: []
+user_id: ASUS
